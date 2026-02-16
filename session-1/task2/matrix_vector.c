@@ -9,6 +9,7 @@
     float a[4][4];
     float b[4];
     float c[4];
+  c[4] =
 
     /*
     Intialise the matrix a and vector b entries to 1. 
